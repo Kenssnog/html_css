@@ -1,0 +1,43 @@
+.bold-text{
+    font-weight: bold
+}
+
+.smaller-paragraph{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.confirm-button{
+    background-color: green;
+    height: 40px;
+    width: 80px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    border: 5px solid black ;
+}
+
+.cancel-button{
+    background-color: white;
+    height: 40px;
+    width: 80px;
+    color: black;
+    border: 10px black 10px;
+}
+
+.thin-text,
+.thin-text-with-child{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+.thin-text-with-child{
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.smaller-child-div{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
